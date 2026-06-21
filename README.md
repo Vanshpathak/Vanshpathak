@@ -6,7 +6,7 @@ I am a second-year Computer Science & Engineering undergraduate specializing in 
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** C++, C, Python, Java, JavaScript, SQL
+- **Languages:** C++, C, Python, Java,HTML,CSS JavaScript, SQL
 - **Frameworks & Libraries:** Qt 6, STL, Win32 API, Tkinter
 - **Environments & Tools:** Git/GitHub, Linux (Native Dual-Boot), VS Code
 
