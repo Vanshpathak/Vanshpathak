@@ -1,6 +1,6 @@
 # Hi, I'm Vansh Pathak 👋
 
-I am a second-year Computer Science & Engineering undergraduate specializing in automation, core systems, and native application development. I love building lightweight, high-performance software utilities that solve real-world digital clutter and networking problems.
+I am a second-year Computer Science & Engineering undergraduate specializing in Cybersecurity with interests in automation, core systems, and native application development. I love building lightweight, high-performance software utilities that solve real-world digital clutter and networking problems.
 
 ---
 
