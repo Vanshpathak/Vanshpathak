@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @Vanshpathak
-- 👀 I’m interested in python till now...
-- 🌱 I’m currently learning python,beginner in python(started python in 2022)
-- 📫 How to reach me mail- pathakvansh2007@gmail.com
+# Hi, I'm Vansh Pathak 👋
 
-<!---
-Vanshpathak/Vanshpathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a second-year Computer Science & Engineering undergraduate specializing in automation, core systems, and native application development. I love building lightweight, high-performance software utilities that solve real-world digital clutter and networking problems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C++, C, Python, Java, JavaScript, SQL
+- **Frameworks & Libraries:** Qt 6, STL, Win32 API, Tkinter
+- **Environments & Tools:** Git/GitHub, Linux (Native Dual-Boot), VS Code
+
+---
+
+### 🚀 Featured Projects
+
+- **[Sortify](https://github.com/Vanshpathak/Sortify):** A C++17 system utility built to automate file organization. It features a background directory scanner, persistent native text logging, and detached multi-threaded Win32 notification systems.
+- **[Qt Calculator](https://github.com/Vanshpathak/Calculator):** A native desktop calculator utilizing Qt 6. Implements Dijkstra's Shunting-Yard algorithm and a custom stack-based evaluation engine to parse nested brackets and operator precedence.
+- **WhatsApp Local-to-Drive Automation:** A Python-based workflow automation utility designed to cleanly bridge temporary local directories to cloud infrastructure.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshpathak&show_icons=true&theme=tokyonight&count_private=true" alt="Vansh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshpathak&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/vansh-pathak-23504b306](https://linkedin.com/in/vansh-pathak-23504b306)
+- **LeetCode:** [leetcode.com/u/Vanshpathak](https://leetcode.com/u/Vanshpathak)
+- **Email:** pathakvansh2007@gmail.com
