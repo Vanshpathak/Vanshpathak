@@ -34,4 +34,4 @@ I am a second-year Computer Science & Engineering undergraduate specializing in 
 - **LinkedIn:** [linkedin.com/in/vansh-pathak-23504b306](https://linkedin.com/in/vansh-pathak-23504b306)
 - **LeetCode:** [leetcode.com/u/Vanshpathak](https://leetcode.com/u/Vanshpathak)
 - **Email:** pathakvansh2007@gmail.com
-- **Instagram:**[ iamvanshpathak](https://www.instagram.com/iamvanshpathak?igsh=MW1zYzZxMHRlb3R1YQ==)
+- **Instagram:** [ iamvanshpathak](https://www.instagram.com/iamvanshpathak?igsh=MW1zYzZxMHRlb3R1YQ==)
